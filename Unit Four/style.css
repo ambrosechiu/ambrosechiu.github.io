@@ -1,0 +1,30 @@
+body {
+	background-color: beige;
+	text-align:center;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: normal;
+		text-decoration: underline;
+	text-transform: uppercase;
+	font-size: 55px;
+}
+
+h2, h3, h4 {
+	font-family: 'Fresca', sans-serif;
+	font-weight: normal;
+	font-size: 35px;
+}
+
+p1, ul {
+	font-family: 'Kotta One', serif;
+	font-weight: normal;
+	font-size: 25px;
+}
+#slogan {
+		font-size: 30px;
+		font-style: italic;
+		color: rgb(0,0,255);
+}
+
