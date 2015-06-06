@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	font-size: 25px;
+	font-weight: bold;
+	font-style: Montserrat, sans-serif;
+	text-transform: uppercase;
+	margin-top: 1em;
+	float: right;
+}
+
+nav a{
+	text-decoration: none;
+	color: #000000;
+	margin:	1em;
+	padding: 0.5em;
+	display: inline-block;
+	background-color: #dddddd
+}
+
+body {
+	font-size: 16px;
+	font-family: Oswald, sans-serif;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+.entry {
+	padding: 1em;
+	border: solid;
+	border-color: #000000;
+	padding: 1em;
+	margin: 1em;
+}
+
+
+.images {
+	padding: 1em;
+	text-align: center;
+}
+
+h1 {
+	font-size: 30px;
+	text-decoration: underline;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+p1 {
+	font-family: inconsolata;
+	font-size: 26px;
+}
+
+footer {
+	font-size: 17px;
+	margin-top: 2em;
+	text-align: center;
+	border-top: double;
+	border-color: #000000;
+}
